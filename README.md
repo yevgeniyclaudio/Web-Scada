@@ -6,4 +6,4 @@ The parameters data gets from sensors using Python and stores in MsSql!
 Dinamic screens with report forms highest level of difficult
 
 #Scada
-![til](https://github.com/yevgeniyclaudio/Web-Scada/blob/main/scada.gif)
+![me](https://github.com/yevgeniyclaudio/Web-Scada/blob/main/scada.gif)
